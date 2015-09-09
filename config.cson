@@ -6,4 +6,5 @@
   core: {}
   editor:
     invisibles: {}
-    fontSize: 15
+    fontSize: 19
+    fontFamily: "Ubuntu Mono"
