@@ -28,3 +28,5 @@
 
 '.platform-win32 .editor':
   'ctrl-shift-L': 'editor:split-selections-into-lines'
+  'ctrl-shift-up': 'editor:add-selection-above'
+  'ctrl-shift-down': 'editor:add-selection-below'
