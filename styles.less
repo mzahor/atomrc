@@ -40,3 +40,23 @@ atom-text-editor::shadow .cursor {
 div.select-list {
   font-size: 1.2em;
 }
+
+atom-text-editor, atom-text-editor::shadow {
+  // Box
+  .highlights .highlight-selected .region {
+    border-color: rgba(200, 200, 200, 0.8);
+    border-radius: 0;
+  }
+  // Background
+  .highlights .highlight-selected.background .region {
+    background-color: rgba(155, 149, 110, 0.9);
+  }
+  // Light theme box (set in settings)
+  .highlights .highlight-selected.light-theme .region {
+    border-color: rgba(255, 128, 64, 0.4);
+  }
+  // Light theme background (set in settings)
+  .highlights .highlight-selected.light-theme.background .region {
+    background-color: rgba(255, 128, 64, 0.9);
+  }
+}
