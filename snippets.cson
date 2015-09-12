@@ -24,3 +24,6 @@
   'Console log':
     'prefix': 'cl'
     'body': 'console.log($1)'
+
+'.platform-win32 .editor':
+  'ctrl-shift-L': 'editor:split-selections-into-lines'
