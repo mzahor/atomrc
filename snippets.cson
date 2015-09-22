@@ -25,5 +25,15 @@
     'prefix': 'cl'
     'body': 'console.log($1)'
 
+'.source.js':
+  'describe':
+    'prefix': 'desc'
+    'body': 'describe(\'$1\', function() {\t\n});'
+
+'.source.js':
+  'it':
+    'prefix': 'it'
+    'body': 'it(\'$1\', function() {\t\n});'
+
 '.platform-win32 .editor':
   'ctrl-shift-L': 'editor:split-selections-into-lines'
