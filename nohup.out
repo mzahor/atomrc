@@ -1,2 +1,10 @@
-[6228:0909/124116:ERROR:browser_main_loop.cc(170)] Running without the SUID sandbox! See https://code.google.com/p/chromium/wiki/LinuxSUIDSandboxDevelopment for more information on developing with the sandbox on.
-App load time: 202ms
+[2531:0922/203045:ERROR:browser_main_loop.cc(170)] Running without the SUID sandbox! See https://code.google.com/p/chromium/wiki/LinuxSUIDSandboxDevelopment for more information on developing with the sandbox on.
+App load time: 415ms
+[2564:0922/203046:INFO:renderer_main.cc(212)] Renderer process started
+[2531:0922/203047:INFO:CONSOLE(46)] "Window load time: 889ms", source: file:///usr/share/atom/resources/app.asar/static/index.js (46)
+[3387:0922/205906:INFO:renderer_main.cc(212)] Renderer process started
+[2531:0922/205908:INFO:CONSOLE(46)] "Window load time: 1061ms", source: file:///usr/share/atom/resources/app.asar/static/index.js (46)
+[2531:0922/210008:INFO:CONSOLE(178)] "Git-plus: Using git at", source: /home/seedx/.atom/packages/git-plus/lib/git.coffee (178)
+[2531:0922/210008:INFO:CONSOLE(178)] "Git-plus: Using git at", source: /home/seedx/.atom/packages/git-plus/lib/git.coffee (178)
+[2531:0922/210009:INFO:CONSOLE(178)] "Git-plus: Using git at", source: /home/seedx/.atom/packages/git-plus/lib/git.coffee (178)
+[2531:0922/210103:INFO:CONSOLE(178)] "Git-plus: Using git at", source: /home/seedx/.atom/packages/git-plus/lib/git.coffee (178)

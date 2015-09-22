@@ -4,3 +4,5 @@ dev
 .npm
 .node-gyp
 .apm
+npm-debug.log
+nohup.out

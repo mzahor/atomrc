@@ -8,3 +8,5 @@
     invisibles: {}
     fontSize: 17
   react: {}
+  "atom-beautify":
+    _analyticsUserId: "5550b89c-f6e3-43ce-b60d-8789be4bf13a"
